@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "952719214623",
+    "firebase_url": "https://krme2-9717b.firebaseio.com",
+    "project_id": "krme2-9717b",
+    "storage_bucket": "krme2-9717b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952719214623:android:32ab636510bd9338",
+        "android_client_info": {
+          "package_name": "in.krme.krme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952719214623-6pp173eep3fs3npbd3bb5v7c4lkq7i85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.krme.krme",
+            "certificate_hash": "5ccfc0cd2afb37da359eefbb3131c7f6cde6408b"
+          }
+        },
+        {
+          "client_id": "952719214623-so3a0c9b84p5v0ftc8r12e16m98rib3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc8RJ7hWS0lxg5WO0ZrsYKqW1VIO0lR2E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952719214623-so3a0c9b84p5v0ftc8r12e16m98rib3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
