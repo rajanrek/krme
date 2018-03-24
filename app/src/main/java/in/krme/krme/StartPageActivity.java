@@ -49,6 +49,7 @@ public class StartPageActivity extends AppCompatActivity {
 
 
     com.google.android.gms.common.SignInButton signInButton;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
